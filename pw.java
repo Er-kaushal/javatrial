@@ -5,3 +5,7 @@ class pw
     //code1
    }
 }
+public void m1()
+  {
+    //code1
+   }
